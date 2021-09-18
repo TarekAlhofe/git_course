@@ -1,0 +1,11 @@
+.parent {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.one {
+    background-color: #eee;
+    width: 600px;
+    padding: 10px;
+    
+}
